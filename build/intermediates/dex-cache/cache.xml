@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_d3dbae8d9048e54094ebf06efe98e524219ed508/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_5f2dddbdff4cf3c58d9fa74b98e49c62d7757ea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_a771ac83714b61e13669a545a8d5f59206267214/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_9d32e82d121c354f53bdd861d74b00db0fb5c1c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_ea9da30558fe4692809cf94942949e8e97cd2eba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_8285359905bfd3b96fb9b4613b731f8267ff667b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_a60fcf5a67e6e2e50904836cb89f562b7934811f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_474124f402a6a152dde25d1c8ffe0ca89e200ba0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_b468422b8c11747c88f5fdafff8015b715968040/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fdf7150d7972d60dc9da04dfb4236fae9d322f74">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9795ba5cc22c073e8f186affe29853d6d8200152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_6609b9d8265816d153a3640c5d8a5c9fd52aa777/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c93d5e4eb1cc56a49d3f7afa8f2497578e2d4e9">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c15dbf7527d5147ab6cfc233ee51784229187ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_11a9f081033e9e941298152fee86890ef24351ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_de2d7f7dc3ce1d928ab3d66c24f6d332acf1e96b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_dd93a2788e06fa1ae9de5fac30bf198eca99b234/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_89fcf025d8b8bd107226c8cb2e22440355827502/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_1ce1a423ed2687abed6c563cc78f38acdd45709d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_721d7c25fb6e658148ac610538518fc2ca232c6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_ff4ccc8fdc7d19253f8ed7fdaefc48afa6670c6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_25b5470f52a9045fd2d924187a019b3b1a24af55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_f25cad327c570933dec531f8ecfcca97da8b5e7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3202db513a724413357b6189c481d88004a97b79">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-2.0.0-alpha3_42d1d4c242bc2852d4146d32eb5a94df98ebc9a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_04a349dd32b8f33abea66f916ccfd756879842d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_25239c0f6fc8b355ddb98ca9123a4d04a8987351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_03aeb2f214e555ca803bfd44c2efaebabf010877/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_30ab8f797811a68fd9bbf47b7ca6f7ff83dfadcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_5d05f896f8a2be7318a440dcc1ebf28e5c8f1898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_bf543012c4c3973166bcf72353cd54dc721f321d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_d774cdec40e495dd68e562b8e5f559c272e36154/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_7ec1ef2d046f2af7c82388a420780806c0af87f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_36b5d32b7d754d24be3e25a0f848391a7802de5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_faf4a52fc1a49a196323a52ff6f3a48820c7d964/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_28f185ae89b83479272e646e2195c7f8427bbd7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_f7e1bff4039eeb96208ca700426b1e26aa8be9e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_196bcb029ce0e3c2ff9fc44a3f66b99a51144639/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_76a0cc8c6784fe2eabab7d8204e8c34378ad7bb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_db101d98f0635b2800de29397ca2e8d65b5e9da7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_de556879c34c807be00e8f03c177d844b80b8110/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_c2ba3e6090c394be447d0ad74d3d77a7172eb0d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_f198cc72debc7ffd29227e0758d07b881d9e1275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_d8a52da0299b1b0220e51318c4acd793fad9d265/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_5c9718fbeba7358aa62046f02cc8f307e3da444a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_47453670352ce610c535c79da95883b75c823dc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_2b0d043934965284ca8b42f046e61541ddc5fc7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_70bd47e2996994edf32048bab13b6e88f7890fd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_29fb9adce99c17d0167bf03e60b8dd0b78af70bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_ff96f217d98a338ce6ad53ddffc027d2596387a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_9b0a804eaedc972894bdfd9cfcabcf7c06b96826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_449e00582f9d6b4fcca00ef2bb464e1e6138c835/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.1/369f9aa48a629b4e92557b37326f42dc3de796e4/MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v3.0.1_0dc1cb89491d1711487deb8f268d93924cb8538e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_4cbd88754ab8a5649b7dd5908a18077d37e3d6c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_55fcbeb90ac2c003a5700f4d72e9e2702bbb6896/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_da7640d42efdc57be9a3b9daedbd3073ba688de8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b4ca6665641baa0c6e59bd61e4e8cf03bbb92c1b">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a6547f6a2860772e1126f96cdfd5f9676ae078d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_8b512bc1efdca3550866aebfde255de6605dd95d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a0cd065f55a752a76b19495979b7034a0819e2ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_e6c77094e7b4b774ec050de95d54b086c5d5f9fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3e22d671406b03697ddd9908b7b0948d37c729c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_e5ba5bf49b1d9e78ea06d5cb96d43bb48603b4e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_d895bf95f1c4e2baf332fabee249358c3ca752cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c6c864b099a5d6206784b8638e5522c113dd75c1">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7314333e0472936aa26cc6b765c0123a3176d6b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_b94e6e873d507b455860877707a0e2301137203e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_033dbff8313b9f1251ce94191ca7ca22c3c3660c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_9a6265c81e2ba46e9e6896fc5708814c3f422b37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_274ddbfce6f5bd73f462450a23f470384bcf3cff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_958a795d5cb2c7d93b608612dedd10a75355f945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_878bc483b20db025c2d8dec6c9c744f6780c2487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_563712e7f5b1cf1803f9f606389571997c104c57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_9aef7749d67fa8a986b55244b266a6eb5b7b3f8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_eb2cdd3fd74a4492399c623027934d75a8a1f446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_04fc54ffb498cac6ef415e3885df695eae434569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_01f2ff83fc7e6d8d75ad78f4e59d54968581b31b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_404f025c7a4e8c0f4fbe1398138785e911c35211/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_1972a7eabc85d1d173a51860bc90bc1f2c698d0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_18be33dd6eeb8b5b6f2542f6c7c2f3b943509e33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_8a9a5753af5209d3e0f2224f7f8c948d7a926dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_8f3a00de052b8034e4fe1a55a22917e9ba32e12e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_d7acad1156850ffad07ff5e5bb56aae01231a8ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_fee0d4086ec9fa74a15c9bcc9c5107a98b05f0dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/matu_mio/AndroidStudioProjects/SensorPlot/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_dde2153ae44d27777fea730502cbff660ef50593/classes.dex" />
+    </item>
+
+</items>
